@@ -107,6 +107,7 @@ body {
 /* Team */
 
 .team {
+    margin-bottom: 142px;
 }
 .team__items {
     display: flex;
